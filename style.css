@@ -16,4 +16,6 @@ section {
   width 1000px;
   margin: auto;
 }
-    
+.content-1 {
+  grid-area: content-1;
+}
