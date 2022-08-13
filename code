@@ -22,18 +22,36 @@
 <h4>Job Advertisement</h4>
 <p><img src="dbaposition.jpg" alt="Job Advertisement for Database Administrator"></p>
 <h4>Description of position</h4>
-<p>Technology is used by database administrators (DBAs), who use specialised software to store and arrange data for businesses. Various pieces of information, such as private financial data, payroll information, or customer shipping records, may fall under this category. A DBA ensures that users can access data and that it is protected from theft, loss, or corruption due to accident. <br>- Evaluation of database software purchases
-<br>- Overseeing the adaptation of any current database software to employer's needs
-<br>- Ensuring the performance and integrity of the company's databases
-<br>- Ensuring that data is stored safely and effectively.
-<br>- Updating database changes and instructing users on how to use systems</p>
+<p>Technology is used by database administrators (DBAs), who use specialised software to store and arrange data for businesses. Various pieces of information, such as private financial data, payroll information, or customer shipping records, may fall under this category. A DBA ensures that users can access data and that it is protected from theft, loss, or corruption due to accident.</p>
+<ul>
+	<li>Evaluation of database software purchases</li>
+	<li>Overseeing the adaptation of any current database software to employer's needs</li>
+    <li>Ensuring the performance and integrity of the company's databases</li>
+    <li>Ensuring that data is stored safely and effectively.</li>
+    <li>Updating database changes and instructing users on how to use systems</li>
+</ul>
+
 <h4>Why the position appeals to me</h4>
 <p>This position appeals to me because based on my personal traits it seems I’d enjoy and work best in an administrative job. Admins in IT have a set variety of duties and tasks, and there lacks spontaneous changes in the role. Additionally this role incorporates security and IT together, both of which I am interested in. In terms of job outlook, the Bureau of Labor Statistics predicts that employment possibilities for database administrators will increase by 10% between 2019 and 2029, outpacing the projected average growth for all occupations of 4%.
 </p>
 <h4>Skills, qualifications and experience required for this position</h4>
 <p>Here's a list of database administrator skills that employers seek in candidates for employment. 
-<br>- Analytical skills: DBAs are required to keep an eye on the database's functioning and assess complex data from a range of sources.<br>- Communication skills: Since most DBAs work in teams, they must be able to communicate clearly with other team members, supervisors, and developers. <br>- Detail-oriented: When working with a database, an administrator must comprehend complex processes and how a small mistake can have a big impact. For instance, if a client's credit card information is misplaced, it may result in charges for items that the consumer did not make.<br>- Problem-solving skills: Administrators must troubleshoot and fix issues as they arise.</p>
-<p>A DBA must have a minimum of a four-year degree in a related field and relevant experience, as follows:<br>- Education: A bachelor's degree in computer science or information technology<br>- Qualifications: A database administrator must possess both advanced education and certifications. Although not necessary, obtaining a certification with a focus on several database management systems is quite beneficial.<br>- Experience: In addition to educational requirements, many organisations also look for three to five years of database experience.</p>
+<ul>
+	<li>Analytical skills: DBAs are required to keep an eye on the database's functioning and assess complex data from a range of sources.</li>
+    <li>Communication skills: Since most DBAs work in teams, they must be able to communicate clearly with other team members, supervisors, and developers. </li>
+    <li>Detail-oriented: When working with a database, an administrator must comprehend complex processes and how a small mistake can have a big impact. For instance, if a client's credit card information is misplaced, it may result in charges for items that the consumer did not make</li>
+    <li>Problem-solving skills: Administrators must troubleshoot and fix issues as they arise.</li>
+</ul>
+</p>
+
+<p>A DBA must have a minimum of a four-year degree in a related field and relevant experience, as follows:
+<ul>
+	<li>Education: A bachelor's degree in computer science or information technology</li>
+    <li>Qualifications: A database administrator must possess both advanced education and certifications. Although not necessary, obtaining a certification with a focus on several database management systems is quite beneficial.</li>
+    <li>Experience: In addition to educational requirements, many organisations also look for three to five years of database experience </li>
+</ul>
+</p>
+
 <h4>Skills, qualifications and experience I currently have</h4>
 <p>I currently lack the skills and experience necessary for the position. However, because I have experience working in the hospitality sector, I have developed my organisational, time management, and communication abilities, as well as the ability to work effectively in a team.</p>
 <p>Over the next few years I will work towards completing my Bachelor of Information Technology. Finding an internship will be receive guidance by working with an experienced Database Administrator. I’ll prepare for interviews and brush up my resume to highlight relevant skills and previous experience, then search for job openings by visiting company websites directly, or attending industry events to meet potential hiring managers. </p>
@@ -62,27 +80,33 @@ ATM security is critical for banks to preserve their quality of service and repu
 </p>
 <h4>Description</h4>
 <p>Fingerprint Based ATM will be an application where the fingerprint of the user is used as  authentication. Fingerprints are different for each human being so the user can be identified uniquely. Due to this, users will no longer need to carry around a physical ATM card - with this, there is no worry of losing an ATM card nor the hassle of having to carry one around in the first place. Using their fingerprint to access ATM services will be safer and more secure. The user has to login using their fingerprint and possibly enter a password in order to continue with a transaction.
-<p>Features of the Fingerprint Based ATM would include: 
-<br>- Login: User will login to the system using his fingerprint.
-<br>- Add Pin Code: User has to scan finger and add pin code in order to do transactions.
-<br>- Withdrawal of cash: User can withdraw cash by entering the amount they want to withdraw.
-<br>- Transfer of Money: User can transfer cash to other accounts by entering the account number they want to transfer.
-<br>- View Balance: User can view balance which is available in the respective account.
-<br>- View Transaction: User can view last five transactions.
-</p>
+<p>Features of the Fingerprint Based ATM would include: </p>
+<ul>
+	<li>Login: User will login to the system using his fingerprint.</li>
+	<li>Add Pin Code: User has to scan finger and add pin code in order to do transactions.</li>
+    <li>Withdrawal of cash: User can withdraw cash by entering the amount they want to withdraw</li>
+    <li>Transfer of Money: User can transfer cash to other accounts by entering the account number they want to transfer.</li>
+    <li>View Balance: User can view balance which is available in the respective account.</li>
+    <li>View Transaction: User can view last five transactions</li>
+</ul>
 <h4>Technologies</h4>
 <p>Equipment the project would require include but are not limited to:
 <br>Software requirements:
-<br>- Windows 7 and above
-<br>- SQL server
-<br>- Visual studio
-<br>*the above systems are used for software development and code writing for programs, and are able to be learned through a variety of courses.
-<p>Hardware components:
-<br>- Processor
-<br>- Hard disk
-<br>- Memory
-<br>- Fingerprint sensor
-</p>
+<ul>
+	<li>Windows 7 and above.</li>
+	<li>SQL server</li>
+    <li>Visual studio</li>
+</ul>
+<p>*the above systems are used for software development and code writing for programs, and are able to be learned through a variety of courses.</p>
+
+<p>Hardware components: </p>
+<ul>
+	<li>Processor</li>
+	<li>Hard Disk</li>
+    <li>Memory</li>
+    <li>Fingerprint Sensor</li>
+</ul>
+
 <h4>Outcome</h4>
 <p>Given a successful project, financial losses will be prevented and the reputation of banks can be protected. Putting such a security measure in place (fingerprint based ATM) will protect the banking network and most importantly, customers’ personal information. <p>
 	Working on this project will help obtain experience in the use of various computer systems and programming languages, specifically SQL, required for my ideal job.
