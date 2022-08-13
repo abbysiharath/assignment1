@@ -1,21 +1,76 @@
-.me {
-  background-color: silver;
-  color: Black;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-  font-size:20px
+body {
+padding: 20px;
+font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+text-align:center;
 }
 
 section {
-  padding: 10px;
-  Background-color: white
-    border: 2px;}
+padding: 10px;
+background-color: white;
+border: 2px solid #4682B4;}
 .container {
-  display: grid;
-  width 1000px;
-  margin: auto;
+display: grid;
+width: 1000px;
+margin:auto;
+grid-template-columns: 1fr 1fr ;
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+grid-gap: 20px;
+grid-template-areas:
+"content-1 content-1"
+ "content-2 content-2"
+ "content-3 content-3"
+ "content-4 content-4"
+ "content-5 content-5";
 }
 .content-1 {
-  grid-area: content-1;
+grid-area: content-1;
 }
+.content-2 {
+grid-area: content-2;
+}
+.content-3 {
+grid-area: content-3;
+}
+.content-4 {
+grid-area: content-4;
+}
+.content-5 {
+grid-area: content-5;
+}
+
+kpop {
+padding: 20px;
+background-color: white;
+border: 2px solid #4682B4;}
+.box {
+display: grid;
+width: 2000px;
+margin:auto;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+grid-gap: 20px;
+grid-template-areas:
+"content-1 content-1"
+ "content-2 content-2"
+ "content-3 content-3"
+ "content-4 content-4"
+ "content-5 content-5";
+}
+.content-1 {
+grid-area: content-1;
+}
+.content-2 {
+grid-area: content-2;
+}
+.content-3 {
+grid-area: content-3;
+}
+.content-4 {
+grid-area: content-4;
+}
+.content-5 {
+grid-area: content-5;
+}
+
