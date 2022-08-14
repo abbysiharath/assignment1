@@ -18,11 +18,11 @@ grid-template-columns: 1fr ;
 grid-template-rows: 1fr ;
 grid-gap: 20px;
 grid-template-areas:
-"content-1 content-1"
- "content-2 content-2"
- "content-3 content-3"
- "content-4 content-4"
- "content-5 content-5";
+"content-1"
+ "content-2"
+ "content-3"
+ "content-4"
+ "content-5";
 }
 .content-1 {
 grid-area: content-1;
